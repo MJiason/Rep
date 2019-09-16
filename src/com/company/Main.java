@@ -28,7 +28,7 @@ public class Main {
 
         }
         if (a <= -C && n >= -C) {
-            System.out.println("Помилка ділення на 0");
+            System.out.println("Помилка ділення  на 0");
             System.exit(0);
         }
         for (byte i = a; i <= n; i++) {
@@ -37,7 +37,9 @@ public class Main {
             }
         }
         System.out.println("результат: " + result);
+
         System.out.println("change to commit");
+        System.out.println("change");
     }
 
 }
