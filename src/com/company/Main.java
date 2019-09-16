@@ -37,6 +37,7 @@ public class Main {
             }
         }
         System.out.println("результат: " + result);
+        System.out.println("change to commit");
     }
 
 }
